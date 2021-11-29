@@ -34,11 +34,12 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <br/ >
+<br/>
 
 <!-- status codes -->
 <a align="center" href="https://agusamirudin25.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=agusamirudin25&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusamirudin25&hide=tsql,less,shell&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=agusamirudin25&show_icons=true&theme=radical" alt="my github stats" width="393"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusamirudin25&hide=tsql,less,shell&langs_count=10&theme=radical&layout=compact" alt="languages" height="155">
     </p>
 </a>
 
